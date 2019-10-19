@@ -2,6 +2,11 @@
     background-color: rgb(220, 220, 220);
 }
 
+section {
+        background-color: rgb(220, 220, 220);
+        padding-top: 50px;
+        padding-bottom: 50px;
+}
 
 .splash {
        background-color: rgb(220, 220, 220); 
